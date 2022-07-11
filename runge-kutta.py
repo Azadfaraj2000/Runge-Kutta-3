@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 21 12:42:56 2021
-@author: Azad Faraj, ID: 30164788
-"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
